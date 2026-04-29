@@ -1,5 +1,5 @@
 streamlit
-supabase==2.3.4
+supabase==2.0.3
 plotly
 pandas
 openpyxl
